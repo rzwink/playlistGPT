@@ -1,4 +1,4 @@
-# PlaylistGPT - YourBaroness Inspired Playlist Generator
+# r/YourBaroness Inspired Playlist Generator
 
 A Python-based application inspired by a Reddit post on r/YourBaroness. I asked for music recommendations similar to Baroness, which led to a rich thread of responses from the community. This application takes those recommendations, processes them, and creates a Spotify playlist featuring popular tracks from the mentioned bands.
 
